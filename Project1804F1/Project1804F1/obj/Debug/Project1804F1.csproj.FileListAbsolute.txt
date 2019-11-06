@@ -1,0 +1,2 @@
+C:\Users\asp.APTECHNK\Documents\Visual Studio 2015\Projects\Project1804F1\Project1804F1\bin\Debug\Project1804F1.exe.config
+C:\Users\asp.APTECHNK\Desktop\Git_Project\1804F1\Project1804F1\Project1804F1\bin\Debug\Project1804F1.exe.config
